@@ -16,8 +16,6 @@
 #         max_dlina = dp[i]
 #
 # udalit = N - max_dlina
-# for i in dp:
-#     print(i)
 # print(f"Минимальное число элементов для удаления: {udalit}")
 
 #2
@@ -60,5 +58,6 @@
 #         count += 1
 #
 # print(count)
+
 
 
